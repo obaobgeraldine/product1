@@ -1,0 +1,11 @@
+#include<stdio.h>
+
+    int main()
+    {
+        int num1= 1;
+        int num2= 1;
+        int product= num1*num2;
+        printf("The product of %d and %d is %d, num1, num2, product");
+        
+        return 0;
+    }
